@@ -1,0 +1,9 @@
+# Firebase
+smart-res-27bd3-firebase-adminsdk-xa697-9c70169a6b.json
+
+# Axios
+.env
+frontend/.env
+frontend/node_modules
+node_modules
+rzp.csv
